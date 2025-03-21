@@ -30,7 +30,7 @@ Constraints:
 3 <= nums.length <= 3000
 -105 <= nums[i] <= 105
 
-#15. 3Sum
+# 15. 3Sum
 
 Учитывая целочисленный массив nums, верните все тройки [nums[i], nums[j], nums[k]] такие, что i != j, i != k, и j != k, и nums[i] + nums[j] + nums[k] == 0.
 
